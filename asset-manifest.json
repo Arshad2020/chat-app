@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Arshad2020/chat-app.git/static/css/main.32d4d637.chunk.css",
-    "main.js": "/Arshad2020/chat-app.git/static/js/main.65839059.chunk.js",
-    "main.js.map": "/Arshad2020/chat-app.git/static/js/main.65839059.chunk.js.map",
-    "runtime-main.js": "/Arshad2020/chat-app.git/static/js/runtime-main.13b65eb0.js",
-    "runtime-main.js.map": "/Arshad2020/chat-app.git/static/js/runtime-main.13b65eb0.js.map",
-    "static/js/2.03c7445f.chunk.js": "/Arshad2020/chat-app.git/static/js/2.03c7445f.chunk.js",
-    "static/js/2.03c7445f.chunk.js.map": "/Arshad2020/chat-app.git/static/js/2.03c7445f.chunk.js.map",
-    "index.html": "/Arshad2020/chat-app.git/index.html",
-    "precache-manifest.39c003c58b9d8ea1bf0e532ee0c2ea7f.js": "/Arshad2020/chat-app.git/precache-manifest.39c003c58b9d8ea1bf0e532ee0c2ea7f.js",
-    "service-worker.js": "/Arshad2020/chat-app.git/service-worker.js",
-    "static/css/main.32d4d637.chunk.css.map": "/Arshad2020/chat-app.git/static/css/main.32d4d637.chunk.css.map",
-    "static/js/2.03c7445f.chunk.js.LICENSE.txt": "/Arshad2020/chat-app.git/static/js/2.03c7445f.chunk.js.LICENSE.txt"
+    "main.css": "/chat-app/static/css/main.32d4d637.chunk.css",
+    "main.js": "/chat-app/static/js/main.65839059.chunk.js",
+    "main.js.map": "/chat-app/static/js/main.65839059.chunk.js.map",
+    "runtime-main.js": "/chat-app/static/js/runtime-main.bdb3b2b2.js",
+    "runtime-main.js.map": "/chat-app/static/js/runtime-main.bdb3b2b2.js.map",
+    "static/js/2.fd28b0a9.chunk.js": "/chat-app/static/js/2.fd28b0a9.chunk.js",
+    "static/js/2.fd28b0a9.chunk.js.map": "/chat-app/static/js/2.fd28b0a9.chunk.js.map",
+    "index.html": "/chat-app/index.html",
+    "precache-manifest.1b7768ca3cd5c25272096df8943202b3.js": "/chat-app/precache-manifest.1b7768ca3cd5c25272096df8943202b3.js",
+    "service-worker.js": "/chat-app/service-worker.js",
+    "static/css/main.32d4d637.chunk.css.map": "/chat-app/static/css/main.32d4d637.chunk.css.map",
+    "static/js/2.fd28b0a9.chunk.js.LICENSE.txt": "/chat-app/static/js/2.fd28b0a9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.13b65eb0.js",
-    "static/js/2.03c7445f.chunk.js",
+    "static/js/runtime-main.bdb3b2b2.js",
+    "static/js/2.fd28b0a9.chunk.js",
     "static/css/main.32d4d637.chunk.css",
     "static/js/main.65839059.chunk.js"
   ]
