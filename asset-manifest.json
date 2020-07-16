@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Arshad2020/chat-app.git/static/css/main.32d4d637.chunk.css",
+    "main.js": "/Arshad2020/chat-app.git/static/js/main.65839059.chunk.js",
+    "main.js.map": "/Arshad2020/chat-app.git/static/js/main.65839059.chunk.js.map",
+    "runtime-main.js": "/Arshad2020/chat-app.git/static/js/runtime-main.13b65eb0.js",
+    "runtime-main.js.map": "/Arshad2020/chat-app.git/static/js/runtime-main.13b65eb0.js.map",
+    "static/js/2.03c7445f.chunk.js": "/Arshad2020/chat-app.git/static/js/2.03c7445f.chunk.js",
+    "static/js/2.03c7445f.chunk.js.map": "/Arshad2020/chat-app.git/static/js/2.03c7445f.chunk.js.map",
+    "index.html": "/Arshad2020/chat-app.git/index.html",
+    "precache-manifest.39c003c58b9d8ea1bf0e532ee0c2ea7f.js": "/Arshad2020/chat-app.git/precache-manifest.39c003c58b9d8ea1bf0e532ee0c2ea7f.js",
+    "service-worker.js": "/Arshad2020/chat-app.git/service-worker.js",
+    "static/css/main.32d4d637.chunk.css.map": "/Arshad2020/chat-app.git/static/css/main.32d4d637.chunk.css.map",
+    "static/js/2.03c7445f.chunk.js.LICENSE.txt": "/Arshad2020/chat-app.git/static/js/2.03c7445f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13b65eb0.js",
+    "static/js/2.03c7445f.chunk.js",
+    "static/css/main.32d4d637.chunk.css",
+    "static/js/main.65839059.chunk.js"
+  ]
+}
